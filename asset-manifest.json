@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interior-website/static/css/main.1d1d3404.css",
+    "main.js": "/interior-website/static/js/main.0b1736d3.js",
+    "index.html": "/interior-website/index.html",
+    "main.1d1d3404.css.map": "/interior-website/static/css/main.1d1d3404.css.map",
+    "main.0b1736d3.js.map": "/interior-website/static/js/main.0b1736d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1d3404.css",
+    "static/js/main.0b1736d3.js"
+  ]
+}
